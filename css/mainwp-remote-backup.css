@@ -1,0 +1,36 @@
+
+.backup_destination_test .loading
+{
+    display: none;
+}
+.backup_destination_test .loading img
+{
+    margin-bottom: -2px;
+}
+
+/* fix for conflict css */
+.ui-dialog{
+    z-index: 999999 !important;    
+}
+.ui-widget-overlay {
+    background: url("images/ui-bg_flat_0_aaaaaa_40x100.png") repeat-x scroll 50% 50% #AAAAAA !important;
+}
+
+.mainwp_ext_info_box {
+    background-color: #fff;
+    border: 1px Solid #e5e5e5;
+    padding: 1em;
+    margin-bottom: 1em;
+    text-decoration: none !important;
+}
+
+.mainwp_ext_info_box a {
+    text-decoration: none !important;
+}
+
+#mainwp-rb-tips {
+    display: none;
+}
+.mainwp-rb-tut, #mainwp-rb-tips {
+    display: none;
+}
